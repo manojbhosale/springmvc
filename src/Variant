@@ -1,0 +1,25 @@
+package hello;
+
+public class Variant {
+	
+	private String consequence;
+
+	
+	
+	
+	public Variant(String consequence) {
+		super();
+		this.consequence = consequence;
+	}
+
+	public String getConsequence() {
+		return consequence;
+	}
+
+	public void setConsequence(String consequence) {
+		this.consequence = consequence;
+	}
+	
+	
+
+}
